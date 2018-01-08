@@ -7,10 +7,10 @@ Homepage: http://github.com/adamboardman/gemini-keyboard-apps
 Standards-Version: 3.9.2
 
 Package: gemini-keyboard-apps-qt
-Version: 0.1
+Version: 0.2
 Maintainer: Adam Boardman <adamboardman@gmail.com>
 # Pre-Depends: <comma-separated list of packages>
-Depends: lightdm,evolution-data-server,syncevolution
+Depends: evolution-data-server,syncevolution
 # Recommends: <comma-separated list of packages>
 # Suggests: <comma-separated list of packages>
 Provides: gemini-keyboard-apps
