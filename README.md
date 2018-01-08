@@ -15,5 +15,5 @@ You may wish to verify the fingerprint: 72A5 173A F87A 1C54 3573  1F93 AD1C D6D4
 
 Add repository to your apt sources:
 
-> echo "deb http://gka.thinkglobally.org/apt/debian/ stretch main" | sudo tee -a /etc/apt/sources.list
+> echo "deb http://apt.thinkglobally.org/ stretch main" | sudo tee -a /etc/apt/sources.list
 
