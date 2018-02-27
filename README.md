@@ -9,11 +9,13 @@ Further details and discussion on the [wiki](https://github.com/adamboardman/gem
 
 Add repository archive key:
 
-> wget -O - http://gka.thinkglobally.org/apt/archive-key.asc | sudo apt-key add -
+> wget http://gemian.thinkglobally.org/archive-key.asc  
+> sudo apt-key add archive-key.asc
 
 You may wish to verify the fingerprint: 72A5 173A F87A 1C54 3573  1F93 AD1C D6D4 BA88 8E60
 
 Add repository to your apt sources:
 
-> echo "deb http://apt.thinkglobally.org/ stretch main" | sudo tee -a /etc/apt/sources.list
+> echo "deb http://gemian.thinkglobally.org/debian/ stretch main" | sudo tee -a /etc/apt/sources.list
+> sudo apt-get update
 
