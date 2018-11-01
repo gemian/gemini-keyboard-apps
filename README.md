@@ -3,7 +3,7 @@
 Applications focused on supporting maximum keyboard navigation options 
 for use on the [Gemini](https://www.planetcom.co.uk)
 
-Further details and discussion on the [wiki](https://github.com/adamboardman/gemini-keyboard-apps/wiki)
+Further details and discussion on the [wiki](https://github.com/gemian/gemini-keyboard-apps/wiki)
 
 ## To install packages
 
